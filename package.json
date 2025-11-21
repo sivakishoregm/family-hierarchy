@@ -1,0 +1,17 @@
+{
+  "name": "family-hierarchy",
+  "version": "1.0.0",
+  "description": "add person to record family details",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "siva-gm",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.20.1",
+    "nodemon": "^3.1.11"
+  }
+}
